@@ -1,0 +1,59 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+  font-family:  'MedievalSharp', cursive;
+  background: url('excalibur-.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+    color:gold;
+    font-size: 60px;
+    font-weight: normal;
+    
+    
+}
+
+h2{
+  color: red;
+  font-size: 30;
+  margin-top: 0;
+}
+
+.rea{
+  color: #1B008D;
+  font-size: 20px;
+  background-color: white;
+  opacity: .8;
+  border: 5px solid gold;
+  padding: 5px;
+}
+
+.crest {
+  height: 150px;
+  border-radius: 1000px;
+  
+  
+}
+
+
+.about-container {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+table {
+  border: 5px;
+  cellpadding: 10px;
+  cellspacing: 5px;
+  color: gold;
+}
+
+
+
